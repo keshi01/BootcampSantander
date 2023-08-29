@@ -3,8 +3,7 @@
 
 ### Sobre:
 
-Projeto para a exploração de IA generativa em uma pipeline de ETL com Python.
-
+Projeto para a exploração de IA generativa em uma pipeline de ETL com Python tendo o seguinte contexto de que a Santander recebeu a tarefa de envolver seus clientes de maneira mais personalizada. 
 ### Proposta:
 
 Este projeto visa aprimorar o envolvimento do cliente através da personalização de mensagens de marketing. Empregaremos a IA Generativa para criar mensagens exclusivas que ressoem com as necessidades e aspirações individuais de cada cliente.
